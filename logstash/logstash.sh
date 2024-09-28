@@ -1,0 +1,1 @@
+rm -f output.json; sudo /usr/share/logstash/bin/logstash -f /home/devops/Downloads/logstash.conf --verbose
